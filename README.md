@@ -30,10 +30,10 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 [<img align="left" alt="My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][rg]
+[<img align="left" alt="ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />][orcid]
+[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][scholar]
 
 <br />
-
-<!--- TODO: add ORCID, Google Scholar --->
 
 <!---
 
@@ -66,15 +66,12 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 [website]: https://ma-riviere.me
 [linkedin]: https://www.linkedin.com/in/ma-riviere
 [rg]: https://www.researchgate.net/profile/Marc_Aurele_Riviere2
+[orcid]: https://orcid.org/0000-0002-5108-3382
+[scholar]: https://scholar.google.com/citations?user=NBVmQOUAAAAJ&hl=en
