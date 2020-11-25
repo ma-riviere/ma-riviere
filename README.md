@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design and develop wearable devices to assist Visually Impaired People, combining models of human perception with advances in Computer Vision & Human-Machine Interfaces to improve their Quality-of-Life, autonomy, and safety.
 
@@ -9,21 +9,21 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 
 👯🎓🔬 I’m always looking for new and interesting research collaborations.
 
-### My skillset includes:
-- ⭐⭐⭐⭐⭐ Experimental Research (behavioral & psychophysical)
-- ⭐⭐⭐⭐⭐ Scientific Writing & Teaching
-- ⭐⭐⭐⭐ (Applied) Statistical Modeling & Machine Learning
+### My skill set includes:
+- ⭐⭐⭐⭐⭐ Experimental Research
+- ⭐⭐⭐⭐⭐ Scientific Writing | Teaching
+- ⭐⭐⭐⭐ Applied (Bio)Statistics | Machine Learning
 - ⭐⭐⭐⭐ Data Science
-- ⭐⭐⭐ (Web) Development
+- ⭐⭐⭐ Web Development
 - ⭐⭐⭐ Computer Vision
 
-📑 To learn more, check out my curriculum [here](https://ma-riviere.me/files/CV.pdf).
+📑 To learn more, check out my curriculum [here](https://ma-riviere.me/media/cv.pdf).
 
 🌱 I’m currently learning:
 - Structural Equation Models (SEM)
 - Generalized Additive Models (GAM)
 - Bayesian Hierarchical Models
-- Unity
+- Unity + Augmented-Reality
 - Norwegian
 
 ### 📫 Contact me:
