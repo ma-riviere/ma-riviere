@@ -23,6 +23,7 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 - Structural Equation Models (SEM)
 - Generalized Additive Models (GAM)
 - Bayesian Hierarchical Models
+- Unity
 - Norwegian
 
 ### 📫 Contact me:
