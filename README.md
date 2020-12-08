@@ -55,7 +55,7 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://www.netgains.org/wp-content/uploads/2014/01/node_js.png" />
 <img align="left" alt="Flask" width="22px" height="36px" src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" />
 <img align="left" alt="Flutter" width="22px" height="32px" src="https://www.andreasnesheim.no/wp-content/uploads/2019/05/logo_flutter_1080px_clr.png" />
 
