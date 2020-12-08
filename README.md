@@ -11,8 +11,8 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 
 ### 🎓 My skill set includes:
 - ⭐⭐⭐⭐⭐ Experimental Research
-- ⭐⭐⭐⭐⭐ Scientific Writing | Teaching
-- ⭐⭐⭐⭐ Applied (Bio)Statistics | Machine Learning
+- ⭐⭐⭐⭐⭐ Scientific Writing & Teaching
+- ⭐⭐⭐⭐ Applied (Bio)Statistics & Machine Learning
 - ⭐⭐⭐⭐ Data Science
 - ⭐⭐⭐ Web Development
 - ⭐⭐⭐ Computer Vision
