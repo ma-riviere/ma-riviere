@@ -51,6 +51,8 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 <img align="left" alt="PyCharm" width="26px" src="https://caktus-website-production-2015.s3.amazonaws.com/media/blog-images/logo.png" />
 <img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png" />
 
+<br />
+
 ### 🌱 I’m currently learning:
 - Structural Equation Models (SEM)
 - Generalized Additive Models (GAM)
