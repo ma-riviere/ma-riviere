@@ -55,9 +55,8 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 <br />
 
 ### 🌱 I’m currently learning:
-- Bayesian Hierarchical Models (with R/BRMS)
 - Unity + Augmented-Reality
-- Generalized Additive Models (GAM)
+- Survival Analysis
 - Structural Equation Models (SEM)
 - Norwegian
 
