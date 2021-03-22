@@ -48,8 +48,8 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 <img align="left" alt="Google Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 <img align="left" alt="R Studio" width="26px" src="https://rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://caktus-website-production-2015.s3.amazonaws.com/media/blog-images/logo.png" />
-<img align="left" alt="Intellij IDEA" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png" />
-<img align="left" alt="VS Code" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png" />
+<img align="left" alt="Intellij IDEA" width="26px" src="https://logonoid.com/images/intellij-idea-logo.png" />
+<img align="left" alt="VS Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 </div>
 <br />
 
