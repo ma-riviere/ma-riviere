@@ -63,7 +63,7 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 
 [<img align="left" alt="My Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blue_globe_icon.svg/1000px-Blue_globe_icon.svg.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png" />][linkedin]
-[<img align="left" alt="Research Gate" width="22px" src="https://user-images.githubusercontent.com/511683/28757557-f82cff1a-7585-11e7-9317-072a838dcca3.png" />][rg]
+[<img align="left" alt="Research Gate" width="26px" src="https://user-images.githubusercontent.com/511683/28757557-f82cff1a-7585-11e7-9317-072a838dcca3.png" />][rg]
 [<img align="left" alt="ORCID" width="22px" src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" />][orcid]
 [<img align="left" alt="Google Scholar" width="22px" src="https://freepngimg.com/thumb/science/63222-google-scholar-doctor-science-university-philosophy-computer.png" />][scholar]
 
