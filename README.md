@@ -10,7 +10,7 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 👯🔬 I’m always looking for new and interesting research collaborations.
 
 ### 🎓 My skill set includes:
-- ⭐⭐⭐⭐⭐ Experimental Research
+- ⭐⭐⭐⭐⭐ Research & Development
 - ⭐⭐⭐⭐⭐ Scientific Writing & Teaching
 - ⭐⭐⭐⭐ Applied (Bio)Statistics & Machine Learning
 - ⭐⭐⭐⭐ Data Science
