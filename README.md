@@ -54,9 +54,9 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 <br />
 
 ### 🌱 I’m currently learning:
-- Unity
+- Unity / AR
 - Survival Analysis
-- Structural Equation Models (SEM)
+- (Bayesian) IRT
 - Norwegian
 
 ### 📫 Contact me:
@@ -72,3 +72,10 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 [rg]: https://www.researchgate.net/profile/Marc_Aurele_Riviere2
 [orcid]: https://orcid.org/0000-0002-5108-3382
 [scholar]: https://scholar.google.com/citations?user=NBVmQOUAAAAJ&hl=en
+
+<br />
+<hr>
+<br />
+
+[![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&hide=issues,prs,contribs&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+ 
