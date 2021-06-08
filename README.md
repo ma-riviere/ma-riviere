@@ -10,48 +10,45 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 👯🔬 I’m always looking for new and interesting research collaborations.
 
 ### 🎓 My skill set includes:
-- ⭐⭐⭐⭐⭐ Research & Development
+- ⭐⭐⭐⭐⭐ (Behavioral) Research & Development
 - ⭐⭐⭐⭐⭐ Scientific Writing & Teaching
-- ⭐⭐⭐⭐ Applied (Bio)Statistics & Machine Learning
-- ⭐⭐⭐⭐ Data Science
+- ⭐⭐⭐⭐ Applied (Bio)Statistics | Data Science
+- ⭐⭐⭐⭐ Human-Machine Interfaces
 - ⭐⭐⭐ Web Development
 - ⭐⭐⭐ Computer Vision
 
 ### 💻 Languages, Frameworks, and Tools:
+<!-- TODO: Shiny logo and SQL -->
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)<br>
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-<div>
-<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" />
-<img align="left" alt="Java" width="22px" height="36px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C#" width="26px" src="https://jaki-jezyk-programowania.pl/img/technologies/csharp.png" />
-<img align="left" alt="SQL" width="26px" src="https://platform-user-uploads.s3.amazonaws.com/blog/category/logo/60/sql.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</div>
-<br />
-<br />
-<div>
-<img align="left" alt="R Shiny" width="26px" src="https://rstudio.com/wp-content/uploads/2014/04/shiny.png" />
-<img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
-<img align="left" alt="Flask" width="22px" height="36px" src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" />
-<img align="left" alt="Node.js" width="26px" src="https://www.netgains.org/wp-content/uploads/2014/01/node_js.png" />
-<img align="left" alt="Flutter" width="22px" height="32px" src="https://www.andreasnesheim.no/wp-content/uploads/2019/05/logo_flutter_1080px_clr.png" />
-<img align="left" alt="Unity" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" />
-</div>
-<br />
-<br />
-<div>
-<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-<img align="left" alt="Google Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
-<img align="left" alt="R Studio" width="26px" src="https://rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />
-<img align="left" alt="PyCharm" width="26px" src="https://caktus-website-production-2015.s3.amazonaws.com/media/blog-images/logo.png" />
-<img align="left" alt="Intellij IDEA" width="26px" src="https://logonoid.com/images/intellij-idea-logo.png" />
-<img align="left" alt="VS Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
-</div>
-<br />
+![RShiny](https://img.shields.io/badge/RShiny-02569B?style=for-the-badge&logo=r&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
 
-📑 To learn more, check out my curriculum [here](https://ma-riviere.me/media/cv.pdf).
+![RStudio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white) <!-- &color=black&labelColor=darkorchid -->
+![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![ArduinoIDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+📑 To learn more, check out my [curriculum](https://ma-riviere.me/media/cv.pdf).
 
 ### 🌱 I’m currently learning:
 - Unity / AR
@@ -61,10 +58,10 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 
 ### 📫 Contact me:
 
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?style=flat-square&labelColor=white&logo=orcid&logoColor=A6CE39)][orcid]
-[![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=flat-square&labelColor=white&logo=researchgate&logoColor=00CCBB)][rg]
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0A66C2)][linkedin]
-[![Scholar](https://img.shields.io/badge/Scholar-4285F4.svg?style=flat-square&labelColor=white&logo=google-scholar&logoColor=4285F4)][scholar]
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&labelColor=white&logo=orcid&logoColor=A6CE39)][orcid]
+[![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&labelColor=white&logo=researchgate&logoColor=00CCBB)][rg]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0A66C2)][linkedin]
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&labelColor=white&logo=google-scholar&logoColor=4285F4)][scholar]
 ![Gmail](https://img.shields.io/badge/Gmail-C71610?style=flat-square&labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:marc.aurele.riviere@gmail.com)
 
 [website]: https://ma-riviere.me
