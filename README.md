@@ -18,7 +18,7 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 - ⭐⭐⭐ Computer Vision
 
 ### 💻 Languages, Frameworks, and Tools:
-<!-- TODO: Shiny logo and SQL -->
+<!-- TODO: Shiny logo and SQL --> <!-- See: https://simpleicons.org/ -->
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -31,7 +31,7 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-![RShiny](https://img.shields.io/badge/RShiny-02569B?style=for-the-badge&logo=r&logoColor=white)
+![RShiny](https://img.shields.io/badge/Shiny-02569B?style=for-the-badge&logo=r&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -72,6 +72,10 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 
 <hr>
 <br />
+<!-- See: https://github.com/Naereen/badges -->
 
 [![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&hide=issues,prs,contribs&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![MA's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-riviere&theme=blue-green)](https://github.com/ma-riviere/github-readme-stats)-->
  
+<!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
