@@ -17,8 +17,6 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 - ⭐⭐⭐ Web Development
 - ⭐⭐⭐ Computer Vision
 
-📑 To learn more, check out my curriculum [here](https://ma-riviere.me/media/cv.pdf).
-
 ### 💻 Languages, Frameworks, and Tools:
 
 <div>
@@ -53,6 +51,8 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 </div>
 <br />
 
+📑 To learn more, check out my curriculum [here](https://ma-riviere.me/media/cv.pdf).
+
 ### 🌱 I’m currently learning:
 - Unity / AR
 - Survival Analysis
@@ -61,11 +61,11 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 
 ### 📫 Contact me:
 
-[<img align="left" alt="My Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blue_globe_icon.svg/1000px-Blue_globe_icon.svg.png" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png" />][linkedin]
-[<img align="left" alt="Research Gate" width="26px" src="https://user-images.githubusercontent.com/511683/28757557-f82cff1a-7585-11e7-9317-072a838dcca3.png" />][rg]
-[<img align="left" alt="ORCID" width="22px" src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png" />][orcid]
-[<img align="left" alt="Google Scholar" width="22px" src="https://freepngimg.com/thumb/science/63222-google-scholar-doctor-science-university-philosophy-computer.png" />][scholar]
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?style=flat-square&labelColor=white&logo=orcid&logoColor=A6CE39)][orcid]
+[![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=flat-square&labelColor=white&logo=researchgate&logoColor=00CCBB)][rg]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0A66C2)][linkedin]
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4.svg?style=flat-square&labelColor=white&logo=google-scholar&logoColor=4285F4)][scholar]
+![Gmail](https://img.shields.io/badge/Gmail-C71610?style=flat-square&labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:marc.aurele.riviere@gmail.com)
 
 [website]: https://ma-riviere.me
 [linkedin]: https://www.linkedin.com/in/ma-riviere
@@ -73,7 +73,6 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 [orcid]: https://orcid.org/0000-0002-5108-3382
 [scholar]: https://scholar.google.com/citations?user=NBVmQOUAAAAJ&hl=en
 
-<br />
 <hr>
 <br />
 
