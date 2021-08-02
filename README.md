@@ -74,7 +74,7 @@ I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design 
 <br />
 <!-- See: https://github.com/Naereen/badges -->
 
-[![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&hide=issues,prs,contribs&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![MA's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-riviere&theme=blue-green)](https://github.com/ma-riviere/github-readme-stats)-->
  
