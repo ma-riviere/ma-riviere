@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a PhD student in Cognitive Neurosciences & Biomedical Engineering. I design and develop wearable devices to assist Visually Impaired People, combining models of human perception with advances in Computer Vision & Human-Machine Interfaces to improve their Quality-of-Life, autonomy, and safety.
+I'm a **PhD student** in **Cognitive Neurosciences & Biomedical Engineering**. I design and develop **wearable devices to assist Visually Impaired People**, combining models of human perception & navigation with advances in Computer Vision & Human-Machine Interfaces to improve their Quality-of-Life, autonomy, and safety.
 
 ### 🔬 My research interests include:
 - Cognitive & Computational models of perception, navigation and memory.
