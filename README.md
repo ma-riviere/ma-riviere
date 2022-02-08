@@ -52,8 +52,8 @@ I'm a **PhD student** in **Cognitive Neurosciences & Biomedical Engineering**. I
 
 ### 🌱 I’m currently learning:
 - Unity / AR
+- SQL
 - Survival Analysis
-- (Bayesian) IRT
 - Norwegian
 
 ### 📫 Contact me:
