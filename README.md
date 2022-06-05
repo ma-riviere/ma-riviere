@@ -1,11 +1,11 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## About me:
 
 I'm a **PhD student** in **Cognitive Neurosciences & Biomedical Engineering**. I design and develop **wearable devices to assist Visually Impaired People**, combining models of human perception & navigation with advances in Computer Vision & Human-Machine Interfaces to improve their Quality-of-Life, autonomy, and safety.
 
-### 🔬 My research interests include:
+### 🔬 My interests include:
 - Cognitive & Computational models of perception, navigation and memory.
-- Human-Computer Interaction
 - Sensory Substitution
+- Data Science (R & Bayesian)
 
 👯🔬 I’m always looking for new and interesting research collaborations.
 
@@ -25,13 +25,14 @@ I'm a **PhD student** in **Cognitive Neurosciences & Biomedical Engineering**. I
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- TODO: add Stan -->
 
 ![RShiny](https://img.shields.io/badge/Shiny-02569B?style=for-the-badge&logo=r&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
 
 ![RStudio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
@@ -44,6 +45,7 @@ I'm a **PhD student** in **Cognitive Neurosciences & Biomedical Engineering**. I
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<!-- TODO: add Quarto -->
 
 
 📑 To learn more, check out my [curriculum](https://ma-riviere.me/media/cv.pdf).
@@ -55,6 +57,7 @@ I'm a **PhD student** in **Cognitive Neurosciences & Biomedical Engineering**. I
 
 ### 📫 Contact me:
 
+[![Twitter](https://img.shields.io/badge/Twitter-2979aa?style=flat-square&labelColor=white&logo=twitter&logoColor=2979aa)][twitter]
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&labelColor=white&logo=orcid&logoColor=A6CE39)][orcid]
 [![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&labelColor=white&logo=researchgate&logoColor=00CCBB)][rg]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0A66C2)][linkedin]
@@ -62,6 +65,7 @@ I'm a **PhD student** in **Cognitive Neurosciences & Biomedical Engineering**. I
 ![Gmail](https://img.shields.io/badge/Gmail-C71610?style=flat-square&labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:marc.aurele.riviere@gmail.com)
 
 [website]: https://ma-riviere.me
+[twitter]: https://twitter.com/mariviere1
 [linkedin]: https://www.linkedin.com/in/ma-riviere
 [rg]: https://www.researchgate.net/profile/Marc_Aurele_Riviere2
 [orcid]: https://orcid.org/0000-0002-5108-3382
