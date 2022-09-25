@@ -6,7 +6,7 @@
 **Data Scientist** by passion.  
 I'm interested in cognitive & computational models of perception, navigation and memory, as well as Human-Machine Interfaces design.
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)][website]
+[![Website](https://img.shields.io/badge/-My%20Website-375B7F?style=plastic)][website]
 
 </div>
 
@@ -17,15 +17,15 @@ I'm interested in cognitive & computational models of perception, navigation and
 - ⭐⭐⭐⭐ Human-Machine Interfaces
 
 ## 💻 Languages, Frameworks, and Tools:
-<!-- TODO: Shiny logo and SQL --> <!-- See: https://simpleicons.org/ -->
+<!-- See: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<!-- TODO: add Stan -->
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)<br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!-- TODO: add Stan -->
 
 ![RShiny](https://img.shields.io/badge/Shiny-02569B?style=for-the-badge&logo=r&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
