@@ -81,4 +81,4 @@ I'm interested in cognitive & computational models of perception, navigation and
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
 <!-- See: https://github.com/Naereen/badges -->
 
-<a href="https://fediscience.org/@mariviere" rel="me" style="display:none;"></a>
+<a rel="me" rel="nofollow" href="https://fediscience.org/@mariviere" style="display:none;"></a>
