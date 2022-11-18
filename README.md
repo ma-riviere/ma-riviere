@@ -8,7 +8,7 @@ I'm interested in cognitive & computational models of perception, navigation and
 
 [![Website](https://img.shields.io/badge/My-Website-2979aa?style=for-the-badge&labelColor=white&logo=quarto&logoColor=2979aa)][website]
 
- <a rel="me" rel="nofollow" href="https://fediscience.org/@mariviere" style="display:none;"></a>
+ <a rel="me" rel="nofollow" href="https://fediscience.org/@mariviere">Masto</a>
 
 </div>
 
