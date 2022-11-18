@@ -8,6 +8,8 @@ I'm interested in cognitive & computational models of perception, navigation and
 
 [![Website](https://img.shields.io/badge/My-Website-2979aa?style=for-the-badge&labelColor=white&logo=quarto&logoColor=2979aa)][website]
 
+ <a rel="me" rel="nofollow" href="https://fediscience.org/@mariviere" style="display:none;"></a>
+
 </div>
 
 ## 🎓 My skill set includes:
@@ -80,5 +82,3 @@ I'm interested in cognitive & computational models of perception, navigation and
  
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
 <!-- See: https://github.com/Naereen/badges -->
-
-<a rel="me" rel="nofollow" href="https://fediscience.org/@mariviere" style="display:none;"></a>
