@@ -77,8 +77,8 @@ I'm interested in cognitive & computational models of perception, navigation and
 <hr>
 <br />
 
-[![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![MA's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-riviere&layout=compact&theme=vision-friendly-dark&langs_count=4&hide=html,perl,css,tex)](https://github.com/ma-riviere/github-readme-stats)
+![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=vision-friendly-dark)
+![MA's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-riviere&layout=compact&theme=vision-friendly-dark&langs_count=4&hide=html,perl,css,tex)
  
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
 <!-- See: https://github.com/Naereen/badges -->
