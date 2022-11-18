@@ -6,7 +6,7 @@
 **Data Scientist** by passion.  
 I'm interested in cognitive & computational models of perception, navigation and memory, as well as Human-Machine Interfaces design.
 
-[![Website](https://img.shields.io/badge/-My%20Website-375B7F?style=plastic)][website]
+[![Website](https://img.shields.io/badge/My-Website-2979aa?style=for-the-badge&labelColor=white&logo=quarto&logoColor=2979aa)][website]
 
 </div>
 
@@ -55,6 +55,7 @@ I'm interested in cognitive & computational models of perception, navigation and
 ## 📫 Socials:
 
 [![Twitter](https://img.shields.io/badge/Twitter-2979aa?style=flat-square&labelColor=white&logo=twitter&logoColor=2979aa)][twitter]
+<a rel="me" rel="nofollow" href="https://fediscience.org/@mariviere"><img src="https://camo.githubusercontent.com/5f2d11d6c00535ec00101c1b757d5ae24e05e22f6ac40ef47298961436b9f25d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6173746f646f6e2d3138333035333f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d7768697465266c6f676f3d6d6173746f646f6e266c6f676f436f6c6f723d313833303533" data-canonical-src="https://img.shields.io/badge/Mastodon-183053?style=flat-square&labelColor=white&logo=mastodon&logoColor=183053" alt="Mastodon" style="max-width: 100%;"></a>
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&labelColor=white&logo=orcid&logoColor=A6CE39)][orcid]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0A66C2)][linkedin]
 [![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&labelColor=white&logo=researchgate&logoColor=00CCBB)][rg]
@@ -72,8 +73,7 @@ I'm interested in cognitive & computational models of perception, navigation and
 <br />
 <!-- See: https://github.com/Naereen/badges -->
 
-[![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--[![MA's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-riviere&theme=blue-green)](https://github.com/ma-riviere/github-readme-stats)-->
+[![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![MA's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-riviere&layout=compact&theme=vision-friendly-dark&langs_count=4&hide=html,perl,css,tex)](https://github.com/ma-riviere/github-readme-stats)
  
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
