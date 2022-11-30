@@ -8,8 +8,6 @@ I'm interested in cognitive & computational models of perception, navigation and
 
 [![Website](https://img.shields.io/badge/My-Website-2979aa?style=for-the-badge&labelColor=white&logo=quarto&logoColor=2979aa)][website]
 
- <a rel="me" href="https://fediscience.org/@mariviere"></a>
-
 </div>
 
 ## 🎓 My skill set includes:
@@ -47,7 +45,7 @@ I'm interested in cognitive & computational models of perception, navigation and
 <!-- TODO: add Quarto -->
 
 
-📑 To learn more, check out my [résumé](https://ma-riviere.me/res/cv.pdf).
+📑 To learn more, check out my [CV](https://ma-riviere.me/res/cv.pdf).
 
 ## 🔬🌱 Currently learning:
 - Unity / AR
