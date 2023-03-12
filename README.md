@@ -48,7 +48,7 @@ I'm interested in cognitive & computational models of perception, navigation and
 📑 To learn more, check out my [CV](https://ma-riviere.me/res/cv.pdf).
 
 ## 🔬🌱 Currently learning:
-- Unity / AR
+- SQL
 - Survival Analysis
 - Norwegian
 
