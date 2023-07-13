@@ -2,9 +2,8 @@
 
 # About me:
 
-**Cognitive & Behavioral Neuroscientist** by training.  
-**Data Scientist** by passion.  
-I'm interested in cognitive & computational models of perception, navigation and memory, as well as Human-Machine Interfaces design.
+**Researcher** *(Neuro / Psych)* & **Data Scientist**  
+Proficient R programmer, decent software engineer.
 
 [![Website](https://img.shields.io/badge/My-Website-2979aa?style=for-the-badge&labelColor=white&logo=quarto&logoColor=2979aa)][website]
 
@@ -12,20 +11,19 @@ I'm interested in cognitive & computational models of perception, navigation and
 
 ## 🎓 My skill set includes:
 - ⭐⭐⭐⭐⭐ Behavioral Research
-- ⭐⭐⭐⭐⭐ Scientific Communication
+- ⭐⭐⭐⭐⭐ R Programming
 - ⭐⭐⭐⭐ Data Science
-- ⭐⭐⭐⭐ Human-Machine Interfaces
+- ⭐⭐⭐⭐ Scientific Communication
+- ⭐⭐⭐ Software Engineering 
 
 ## 💻 Languages, Frameworks, and Tools:
 <!-- See: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<!-- TODO: add Stan -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)<br>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![RShiny](https://img.shields.io/badge/Shiny-02569B?style=for-the-badge&logo=r&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -35,13 +33,12 @@ I'm interested in cognitive & computational models of perception, navigation and
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 ![RStudio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Intellij](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white) <!-- &color=black&labelColor=darkorchid -->
-![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white)<br>
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<!-- ![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) -->
 <!-- TODO: add Quarto -->
 
 
