@@ -64,7 +64,7 @@ I'm interested in cognitive & computational models of perception, navigation and
 
 <!--<a rel="me" href="https://fediscience.org/@mariviere"><img src="https://camo.githubusercontent.com/5f2d11d6c00535ec00101c1b757d5ae24e05e22f6ac40ef47298961436b9f25d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6173746f646f6e2d3138333035333f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d7768697465266c6f676f3d6d6173746f646f6e266c6f676f436f6c6f723d313833303533" alt="Mastodon" style="max-width: 100%;"></a>-->
 
-[website]: https://ma-riviere.me
+[website]: https://ma-riviere.com
 [twitter]: https://twitter.com/mariviere1
 [mastodon]: https://fediscience.org/@mariviere
 [linkedin]: https://www.linkedin.com/in/ma-riviere
