@@ -45,7 +45,7 @@ I'm interested in cognitive & computational models of perception, navigation and
 <!-- TODO: add Quarto -->
 
 
-📑 To learn more, check out my [CV](https://ma-riviere.me/res/cv.pdf).
+📑 To learn more, check out my [CV](https://ma-riviere.com/res/cv.pdf).
 
 ## 🔬🌱 Currently learning:
 - SQL
