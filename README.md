@@ -46,7 +46,7 @@ Proficient R programmer, decent software engineer.
 
 ## 🔬🌱 Currently learning:
 - SQL
-- Survival Analysis
+- GIS
 - Norwegian
 
 ## 📫 Socials:
