@@ -2,7 +2,7 @@
 
 # About me:
 
-**Researcher** *(Neuro / Psych)* & **Data Scientist**  
+**Cognitive Neuroscience Researcher** & **Data Scientist**  
 Proficient R programmer, decent software engineer.
 
 [![Website](https://img.shields.io/badge/My-Website-2979aa?style=for-the-badge&labelColor=white&logo=quarto&logoColor=2979aa)][website]
