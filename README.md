@@ -72,7 +72,7 @@ Proficient R programmer, decent software engineer.
 <hr>
 <br />
 
-![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=vision-friendly-dark)
+<!-- ![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=vision-friendly-dark) -->
 ![MA's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-riviere&layout=compact&theme=vision-friendly-dark&langs_count=4&hide=html,perl,css,tex)
  
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
