@@ -2,7 +2,7 @@
 
 # About me:
 
-**Cognitive Neuroscience Researcher** & **Data Scientist**  
+**Data & Behavioral Scientist**  
 Proficient R programmer, decent software engineer.
 
 [![Website](https://img.shields.io/badge/My-Website-2979aa?style=for-the-badge&labelColor=white&logo=quarto&logoColor=2979aa)][website]
@@ -44,9 +44,9 @@ Proficient R programmer, decent software engineer.
 
 📑 To learn more, check out my [CV](https://ma-riviere.com/res/cv.pdf).
 
-## 🔬🌱 Currently learning:
+## 🔬🌱 Currently improving:
+- Shiny
 - SQL
-- GIS
 - Norwegian
 
 ## 📫 Socials:
