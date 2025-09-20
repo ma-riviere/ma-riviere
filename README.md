@@ -2,68 +2,69 @@
 
 # About me:
 
-**Data & Behavioral Scientist**  
-Proficient R programmer, decent software engineer.
+**Research Software Engineer**  
+R Programmer | Data Scientist | Cognitive Neuroscientist
 
 [![Website](https://img.shields.io/badge/My-Website-2979aa?style=for-the-badge&labelColor=white&logo=quarto&logoColor=2979aa)][website]
 
 </div>
 
 ## 🎓 My skill set includes:
-- ⭐⭐⭐⭐⭐ Behavioral Research
 - ⭐⭐⭐⭐⭐ R Programming
-- ⭐⭐⭐⭐ Data Science
-- ⭐⭐⭐⭐ Scientific Communication
-- ⭐⭐⭐ Software Engineering 
+- ⭐⭐⭐⭐⭐ Software Engineering
+- ⭐⭐⭐⭐ Cognitive Neuroscience
+- ⭐⭐⭐⭐ Data Science 
 
-## 💻 Languages, Frameworks, and Tools:
-<!-- See: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
+## 💻 Languages & Frameworks:
+
+**I mainly use:**
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)<br>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![RShiny](https://img.shields.io/badge/Shiny-02569B?style=for-the-badge&logo=r&logoColor=white)<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-36C?style=for-the-badge&logo=htmx&logoColor=white)<br>
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-![RShiny](https://img.shields.io/badge/Shiny-02569B?style=for-the-badge&logo=r&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)<br>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+**But also:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)<br>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![RStudio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+## ⚒ Tools:
+
+**I mainly use:**
+
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Intellij](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white)<br>
+![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=for-the-badge&logo=cursor-ai-white)
+![RStudio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+
+**But also:**
+
+![Intellij](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-<!-- ![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) -->
-<!-- TODO: add Quarto -->
-
 
 📑 To learn more, check out my [CV](https://ma-riviere.com/res/cv.pdf).
 
-## 🔬🌱 Currently improving:
-- Shiny
-- SQL
-- Norwegian
-
 ## 📫 Socials:
 
-[![Twitter](https://img.shields.io/badge/Twitter-2979aa?style=flat-square&labelColor=white&logo=twitter&logoColor=2979aa)][twitter]
-[![Mastodon](https://img.shields.io/badge/Mastodon-183053?style=flat-square&labelColor=white&logo=mastodon&logoColor=183053)][mastodon]
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&labelColor=white&logo=orcid&logoColor=A6CE39)][orcid]
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0A66C2)][linkedin]
-[![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&labelColor=white&logo=researchgate&logoColor=00CCBB)][rg]
-[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&labelColor=white&logo=google-scholar&logoColor=4285F4)][scholar]
-![Gmail](https://img.shields.io/badge/Gmail-C71610?style=flat-square&labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:marc.aurele.riviere@gmail.com)
-
-<!--<a rel="me" href="https://fediscience.org/@mariviere"><img src="https://camo.githubusercontent.com/5f2d11d6c00535ec00101c1b757d5ae24e05e22f6ac40ef47298961436b9f25d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6173746f646f6e2d3138333035333f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d7768697465266c6f676f3d6d6173746f646f6e266c6f676f436f6c6f723d313833303533" alt="Mastodon" style="max-width: 100%;"></a>-->
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)][linkedin]
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?labelColor=white&logo=orcid&logoColor=A6CE39)][orcid]
+[![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB?labelColor=white&logo=researchgate&logoColor=00CCBB)][rg]
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?labelColor=white&logo=google-scholar&logoColor=4285F4)][scholar]
+![Gmail](https://img.shields.io/badge/Gmail-C71610?labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:marc.aurele.riviere@gmail.com)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-2979aa?style=flat-square&labelColor=white&logo=twitter&logoColor=2979aa)][twitter] -->
 
 [website]: https://ma-riviere.com
-[twitter]: https://twitter.com/mariviere1
-[mastodon]: https://fediscience.org/@mariviere
+<!-- [twitter]: https://twitter.com/mariviere1 -->
 [linkedin]: https://www.linkedin.com/in/ma-riviere
 [rg]: https://www.researchgate.net/profile/Marc_Aurele_Riviere2
 [orcid]: https://orcid.org/0000-0002-5108-3382
