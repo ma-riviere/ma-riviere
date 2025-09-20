@@ -15,6 +15,8 @@ R Programmer | Data Scientist | Cognitive Neuroscientist
 - ⭐⭐⭐⭐ Cognitive Neuroscience
 - ⭐⭐⭐⭐ Data Science 
 
+📑 To learn more, check out my [CV](https://ma-riviere.com/res/cv.pdf).
+
 ## 💻 Languages & Frameworks:
 
 **I mainly use:**
@@ -51,8 +53,6 @@ R Programmer | Data Scientist | Cognitive Neuroscientist
 ![Intellij](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-📑 To learn more, check out my [CV](https://ma-riviere.com/res/cv.pdf).
 
 ## 📫 Socials:
 
