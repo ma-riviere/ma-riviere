@@ -5,7 +5,7 @@
 **Research Software Engineer**  
 R Programmer | Data Scientist | Cognitive Neuroscientist
 
-[![Website](https://img.shields.io/badge/My-Website-2979aa?style=for-the-badge&labelColor=white&logo=quarto&logoColor=2979aa)][website]
+[![Website](https://img.shields.io/badge/Website-2979aa?labelColor=white&logo=quarto&logoColor=2979aa)][website]
 
 </div>
 
