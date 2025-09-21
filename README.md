@@ -22,7 +22,8 @@ R Programmer | Data Scientist | Cognitive Neuroscientist
 **I mainly use:**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![RShiny](https://img.shields.io/badge/Shiny-02569B?style=for-the-badge&logo=r&logoColor=white)<br>
+![RShiny](https://img.shields.io/badge/Shiny-02569B?style=for-the-badge&logo=r&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=fff&style=for-the-badge)<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-36C?style=for-the-badge&logo=htmx&logoColor=white)<br>
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
@@ -30,7 +31,7 @@ R Programmer | Data Scientist | Cognitive Neuroscientist
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-**But also:**
+**But also a bit of:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -48,7 +49,7 @@ R Programmer | Data Scientist | Cognitive Neuroscientist
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=for-the-badge&logo=cursor-ai-white)
 ![RStudio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
-**But also:**
+**But also a bit of:**
 
 ![Intellij](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
@@ -77,4 +78,4 @@ R Programmer | Data Scientist | Cognitive Neuroscientist
 ![MA's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-riviere&layout=compact&theme=vision-friendly-dark&langs_count=4&hide=html,perl,css,tex)
  
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
-<!-- See: https://github.com/Naereen/badges -->
+<!-- See: https://badges.pages.dev/ -->
