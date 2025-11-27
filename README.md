@@ -3,7 +3,7 @@
 # About me:
 
 **Research Software Engineer**  
-R Programmer | Data Scientist | Cognitive Neuroscientist
+R/Shiny | Data Science | Cognitive Neuroscience | AI
 
 [![Website](https://img.shields.io/badge/Website-2979aa?labelColor=white&logo=quarto&logoColor=2979aa)][website]
 
