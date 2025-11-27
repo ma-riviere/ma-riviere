@@ -10,7 +10,7 @@ R Programmer | Data Scientist | Cognitive Neuroscientist
 </div>
 
 ## 🎓 My skill set includes:
-- ⭐⭐⭐⭐⭐ R Programming
+- ⭐⭐⭐⭐⭐ R/Shiny
 - ⭐⭐⭐⭐⭐ Software Engineering
 - ⭐⭐⭐⭐ Cognitive Neuroscience
 - ⭐⭐⭐⭐ Data Science 
@@ -43,33 +43,26 @@ R Programmer | Data Scientist | Cognitive Neuroscientist
 
 ## ⚒ Tools:
 
-**I mainly use:**
-
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=for-the-badge&logo=cursor-ai-white)
+![Claude Code](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=for-the-badge)
 ![RStudio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-
-**But also a bit of:**
-
-![Intellij](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📫 Socials:
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)][linkedin]
+[![Bluesky Badge](https://img.shields.io/badge/Bluesky-1185FE?logo=bluesky&logoColor=fff)][bluesky]
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?labelColor=white&logo=orcid&logoColor=A6CE39)][orcid]
 [![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB?labelColor=white&logo=researchgate&logoColor=00CCBB)][rg]
-[![Scholar](https://img.shields.io/badge/Scholar-4285F4?labelColor=white&logo=google-scholar&logoColor=4285F4)][scholar]
 ![Gmail](https://img.shields.io/badge/Gmail-C71610?labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:marc.aurele.riviere@gmail.com)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-2979aa?style=flat-square&labelColor=white&logo=twitter&logoColor=2979aa)][twitter] -->
 
 [website]: https://ma-riviere.com
+[bluesky]: https://bsky.app/profile/ma-riviere.bsky.social
 <!-- [twitter]: https://twitter.com/mariviere1 -->
 [linkedin]: https://www.linkedin.com/in/ma-riviere
 [rg]: https://www.researchgate.net/profile/Marc_Aurele_Riviere2
 [orcid]: https://orcid.org/0000-0002-5108-3382
-[scholar]: https://scholar.google.com/citations?user=NBVmQOUAAAAJ&hl=en
 
 <hr>
 <br />
