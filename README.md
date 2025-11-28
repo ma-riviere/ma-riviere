@@ -43,7 +43,7 @@ R/Shiny | Data Science | Cognitive Neuroscience | AI
 
 ## ⚒ Tools:
 
-<!-- ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=for-the-badge&logo=cursor-ai-white)
 ![Claude Code](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=for-the-badge)
 ![RStudio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
