@@ -2,7 +2,7 @@
 
 # About me:
 
-**Research Software Engineer**  
+**Data Scientist**  
 R/Shiny | Data Science | Neuroscience
 
 [![Website](https://img.shields.io/badge/Website-2979aa?labelColor=white&logo=quarto&logoColor=2979aa)][website]
