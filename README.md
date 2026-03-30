@@ -3,7 +3,7 @@
 # About me:
 
 **Research Software Engineer**  
-R/Shiny | Data Science | Cognitive Neuroscience | AI
+R/Shiny | Data Science | Neuroscience
 
 [![Website](https://img.shields.io/badge/Website-2979aa?labelColor=white&logo=quarto&logoColor=2979aa)][website]
 
@@ -12,8 +12,8 @@ R/Shiny | Data Science | Cognitive Neuroscience | AI
 ## 🎓 My skill set includes:
 - ⭐⭐⭐⭐⭐ R/Shiny
 - ⭐⭐⭐⭐⭐ Software Engineering
-- ⭐⭐⭐⭐ Cognitive Neuroscience
 - ⭐⭐⭐⭐ Data Science 
+- ⭐⭐⭐⭐ Research
 
 📑 To learn more, check out my [CV](https://ma-riviere.com/res/cv.pdf).
 
