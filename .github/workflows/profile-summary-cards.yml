@@ -1,0 +1,35 @@
+name: profile-summary-cards
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          EXCLUDE: "html,perl,css,tex,jupyter notebook"
+          AUTO_PUSH: false
+
+      - name: Keep only the github theme
+        run: |
+          find profile-summary-card-output -mindepth 1 -maxdepth 1 -type d ! -name github -exec rm -rf {} +
+          rm -f profile-summary-card-output/README.md
+
+      - name: Commit
+        run: |
+          git config user.name  "profile-summary-cards[bot]"
+          git config user.email "profile-summary-cards-bot@example.com"
+          git add profile-summary-card-output
+          git diff --quiet --cached || git commit -m "chore: refresh profile summary cards"
+          git push

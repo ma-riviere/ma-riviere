@@ -67,10 +67,9 @@ Data Science | R/Shiny | Neuroscience | AI
 <hr>
 <br />
 
-<!-- ![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=vision-friendly-dark) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ma-riviere&theme=github&v=2" width="67%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ma-riviere&theme=github&exclude=html,perl,css,tex,jupyter%20Notebook&v=2" width="32.5%" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" width="67%" />
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="32.5%" />
 </div>
  
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
