@@ -18,7 +18,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          EXCLUDE: "html,perl,css,tex,jupyter notebook"
+          # @release ref does case-sensitive exact match; use GitHub's official language names
+          EXCLUDE: "HTML,Perl,CSS,TeX,Jupyter Notebook"
           AUTO_PUSH: false
 
       - name: Keep only the github theme
