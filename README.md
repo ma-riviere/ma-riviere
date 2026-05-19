@@ -3,16 +3,16 @@
 # About me:
 
 **Data Scientist**  
-R/Shiny | Data Science | Neuroscience
+Data Science | R/Shiny | Neuroscience | AI
 
 [![Website](https://img.shields.io/badge/Website-2979aa?labelColor=white&logo=quarto&logoColor=2979aa)][website]
 
 </div>
 
 ## 🎓 My skill set includes:
+- ⭐⭐⭐⭐⭐ Data Science 
 - ⭐⭐⭐⭐⭐ R/Shiny
-- ⭐⭐⭐⭐⭐ Software Engineering
-- ⭐⭐⭐⭐ Data Science 
+- ⭐⭐⭐⭐ Software Engineering
 - ⭐⭐⭐⭐ Research
 
 📑 To learn more, check out my [CV](https://ma-riviere.com/res/cv.pdf).
