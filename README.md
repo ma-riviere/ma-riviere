@@ -24,6 +24,7 @@ Data Science | R/Shiny | Neuroscience | AI
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RShiny](https://img.shields.io/badge/Shiny-02569B?style=for-the-badge&logo=r&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=fff&style=for-the-badge)<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-36C?style=for-the-badge&logo=htmx&logoColor=white)<br>
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
@@ -34,7 +35,6 @@ Data Science | R/Shiny | Neuroscience | AI
 
 **But also a bit of:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)<br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -69,8 +69,8 @@ Data Science | R/Shiny | Neuroscience | AI
 
 <!-- ![MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-riviere&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=vision-friendly-dark) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ma-riviere&theme=github" width="67%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ma-riviere&theme=github&exclude=html,perl,css,tex,jupyter%20Notebook" width="32.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ma-riviere&theme=github&v=2" width="67%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ma-riviere&theme=github&exclude=html,perl,css,tex,jupyter%20Notebook&v=2" width="32.5%" />
 </div>
  
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
