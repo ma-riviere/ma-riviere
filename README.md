@@ -70,6 +70,8 @@ Data Science | R/Shiny | Neuroscience | AI
 <div align="center">
   <img src="./profile-summary-card-output/github/0-profile-details.svg" width="67%" />
   <img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="32.5%" />
+  <br />
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="32.5%" />
 </div>
  
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
